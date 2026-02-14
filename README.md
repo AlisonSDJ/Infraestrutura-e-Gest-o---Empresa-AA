@@ -45,3 +45,5 @@ Com foco em competitividade de mercado, fortalecimento da identidade da marca e 
 Conduzi, com apoio da equipe de implantação da UZE, todo o processo de criação do cartão, incluindo a preparação dos PDVs para aceitação da nova modalidade de pagamento e o treinamento da equipe financeira, responsável pela gestão de pagamentos, recebimentos e rotinas administrativas relacionadas ao cartão.
 
 Além disso, também participei das ações de divulgação interna e externa, com iniciativas como carro de som, panfletagem e outdoor, visando a captação de novos clientes e a adesão ao cartão.
+
+**3. Fotos**
