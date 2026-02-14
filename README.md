@@ -56,46 +56,46 @@ Balança destinada a sessão de produtos naturais e temperos.
 <img src="assets/img/Balança destinada a sessão de produtos naturais e temperos..jpg" width="900">
 
 Balanças do açougue.
-<img src="assets/img/Balanças do açougue..jpg">
+<img src="assets/img/Balanças do açougue..jpg" width="900">
 
 Câmeras monitorando algumas sessões da loja.
-<img src="assets/img/Câmeras monitorando algumas sessões da loja..jpg">
+<img src="assets/img/Câmeras monitorando algumas sessões da loja..jpg" width="900">
 
 Cãmeras monitorando algumas sessões 2.
-<img src="assets/img/Cãmeras monitorando algumas sessões 2.jpg">
+<img src="assets/img/Cãmeras monitorando algumas sessões 2.jpg" width="900">
 
 Rack CFTV2.
-<img src="assets/img/Rack CFTV2.jpg">
+<img src="assets/img/Rack CFTV2.jpg" width="900">
 
 Rack(Acesso) e Rack(CFTV2).
-<img src="assets/img/Rack(Acesso) e Rack(CFTV2)..jpg">
+<img src="assets/img/Rack(Acesso) e Rack(CFTV2)..jpg" width="900">
 
 Rack(Acesso) visão interna do cabeamento.
-<img src="assets/img/Rack(Acesso) visão interna do cabeamento..jpg">
+<img src="assets/img/Rack(Acesso) visão interna do cabeamento..jpg" width="900">
 
 Rack(Acesso)
-<img src="assets/img/Rack(Acesso).jpg">
+<img src="assets/img/Rack(Acesso).jpg" width="900">
 
 Relógio de Ponto.
-<img src="assets/img/Relógio de Ponto.jpg">
+<img src="assets/img/Relógio de Ponto.jpg" width="900">
 
 Retaguarda com 2 impressoras de etiqueta.
-<img src="assets/img/Retaguarda com 2 impressoras de etiqueta..jpg">
+<img src="assets/img/Retaguarda com 2 impressoras de etiqueta..jpg" width="900">
 
 TV para monitoramento das câmeras da loja.
-<img src="assets/img/TV para monitoramento das câmeras da loja..jpg">
+<img src="assets/img/TV para monitoramento das câmeras da loja..jpg" width="900">
 
 Videowall com 3 TVS mostrando os valores dos produtos.
-<img src="assets/img/Videowall com 3 TVS mostrando os valores dos produtos..jpg">
+<img src="assets/img/Videowall com 3 TVS mostrando os valores dos produtos..jpg" width="900">
 
 Visando de um consulta preço.
-<img src="assets/img/Visando de um consulta preço..jpg">
+<img src="assets/img/Visando de um consulta preço..jpg" width="900">
 
 Visão de 1 dos 4 consulta preços instalados.
-<img src="assets/img/Visão de 1 dos 4 consulta preços instalados..jpg">
+<img src="assets/img/Visão de 1 dos 4 consulta preços instalados..jpg" width="900">
 
 Visão de 7 dos 8 PDV's.
-<img src="assets/img/Visão de 7 dos 8 PDV's..jpg">
+<img src="assets/img/Visão de 7 dos 8 PDV's..jpg" width="900">
 
 Vídeowall com 3 TV's mostrando preços dos produtos e ofertas.
-<img src="assets/img/Vídeowall com 3 TV's mostrando preços dos produtos e ofertas..jpg">
+<img src="assets/img/Vídeowall com 3 TV's mostrando preços dos produtos e ofertas..jpg" width="900">
