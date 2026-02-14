@@ -48,5 +48,50 @@ Além disso, também participei das ações de divulgação interna e externa, c
 
 **3. Fotos**
 
-Balança destinada a sessão de produtos naturais e temperos
+Balança destinada a sessão de produtos naturais e temperos.
 <img src="assets/img/Balança destinada a sessão de produtos naturais e temperos..jpg" width="900">
+
+Balanças do açougue.
+<img src="assets/img/Balanças do açougue..jpg">
+
+Câmeras monitorando algumas sessões da loja.
+<img src="assets/img/Câmeras monitorando algumas sessões da loja..jpg">
+
+Cãmeras monitorando algumas sessões 2.
+<img src="assets/img/Cãmeras monitorando algumas sessões 2.jpg">
+
+Rack CFTV2.
+<img src="assets/img/Rack CFTV2.jpg">
+
+Rack(Acesso) e Rack(CFTV2).
+<img src="assets/img/Rack(Acesso) e Rack(CFTV2)..jpg">
+
+Rack(Acesso) visão interna do cabeamento.
+<img src="assets/img/Rack(Acesso) visão interna do cabeamento..jpg">
+
+Rack(Acesso)
+<img src="assets/img/Rack(Acesso).jpg">
+
+Relógio de Ponto.
+<img src="assets/img/Relógio de Ponto.jpg">
+
+Retaguarda com 2 impressoras de etiqueta.
+<img src="assets/img/Retaguarda com 2 impressoras de etiqueta..jpg">
+
+TV para monitoramento das câmeras da loja.
+<img src="assets/img/TV para monitoramento das câmeras da loja..jpg">
+
+Videowall com 3 TVS mostrando os valores dos produtos.
+<img src="assets/img/Videowall com 3 TVS mostrando os valores dos produtos..jpg">
+
+Visando de um consulta preço.
+<img src="assets/img/Visando de um consulta preço..jpg">
+
+Visão de 1 dos 4 consulta preços instalados.
+<img src="assets/img/Visão de 1 dos 4 consulta preços instalados..jpg">
+
+Visão de 7 dos 8 PDV's.
+<img src="assets/img/Visão de 7 dos 8 PDV's..jpg">
+
+Vídeowall com 3 TV's mostrando preços dos produtos e ofertas.
+<img src="assets/img/Vídeowall com 3 TV's mostrando preços dos produtos e ofertas..jpg">
