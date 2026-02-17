@@ -102,3 +102,6 @@ Visão de 7 dos 8 PDV's.
 
 Vídeowall com 3 TV's mostrando preços dos produtos e ofertas.
 <img src="assets/img/Vídeowall com 3 TV's mostrando preços dos produtos e ofertas..jpg" width="900">
+
+Retaguarda
+<img src="assets/img/retaguarda.jpeg" width="900">
