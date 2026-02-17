@@ -105,3 +105,21 @@ Vídeowall com 3 TV's mostrando preços dos produtos e ofertas.
 
 Retaguarda
 <img src="assets/img/retaguarda.jpeg" width="900">
+
+Impressoras de etiquetas de gondola. 
+<img src="assets/img/impressoras.jpeg" width="900">
+
+Um dos consultas preços da sessões de produtos.
+<img src="assets/img/consulta.jpeg" width="900">
+
+Consulta preço destinado a produtos congelados
+<img src="assets/img/consulta2.jpeg" width="900">
+
+Câmeras que monitoram os caixas da loja e algumas sessões.
+<img src="assets/img/camerascaixas.jpeg" width="900">
+
+Access Point - 1
+<img src="assets/img/ap.jpeg" width="900">
+
+Access point - 2
+<img src="assets/img/AP e CAM.jpeg" width="900">
