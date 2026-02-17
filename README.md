@@ -97,6 +97,10 @@ Consulta preço destinado a produtos congelados
 Câmeras que monitoram os caixas da loja e algumas sessões.
 <img src="assets/img/camerascaixas.jpeg" width="900">
 
+Impressora em rede utilizada no escritório.
+<img src="assets/img/impressora.jpeg" width="900">
+
+
 Access Point - 1
 <img src="assets/img/ap.jpeg" width="900">
 
