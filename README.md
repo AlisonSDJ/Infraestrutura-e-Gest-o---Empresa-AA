@@ -122,4 +122,4 @@ Access Point - 1
 <img src="assets/img/ap.jpeg" width="900">
 
 Access point - 2
-<img src="assets/img/AP e CAM.jpeg" width="900">
+<img src="assets/img/AP E CAM.jpeg" width="900">
