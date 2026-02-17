@@ -42,6 +42,14 @@ A loja utilizava o ERP da G10 Sistemas, porém, devido a necessidades relacionad
 
 Participei de todo o processo de implantação, desde a liberação de acessos para que a equipe da VR Software realizasse a extração e importação de dados do sistema anterior, até o acompanhamento e orientação sobre quais informações deveriam ser migradas. Também atuei na instalação e configuração das aplicações nas retaguardas e PDV's, além de conduzir o treinamento dos colaboradores, garantindo a padronização do uso do sistema e das rotinas operacionais.
 
+- ZABBIX
+
+O Zabbix foi implementado na loja para assegurar o monitoramento proativo do desempenho dos equipamentos, minimizando manutenções corretivas e garantindo alta disponibilidade dos serviços.
+
+- GLPI
+
+O GLPI foi implantando no intuito de criar um inventário dos ativos de TI e aum banco de conhecimento para uso interno por parte do DTI.
+
 - Cartão marca própria
 
 Com foco em competitividade de mercado, fortalecimento da identidade da marca e melhor controle da inadimplência, a empresa decidiu implantar um cartão de crédito de marca própria. Fiquei responsável pela prospecção e avaliação de empresas parceiras e, entre as opções analisadas, a UZE foi a escolhida.
