@@ -115,8 +115,13 @@ Organização e padronização dos host em grupos.
 Já atentando-se para atender os outros dois supermercados que fazem parte da rede. 
 <img src="assets/img/grupos.png" width="900">
 
-Templates que foram clonados, a partir de modelos que o Zabbix disponibiliza, porém ajustados(itens e triggers) conforme a necessidade do supermercado. 
+Templates que foram clonados, a partir de modelos que o Zabbix disponibiliza, 
+porém ajustados(itens e triggers) conforme a necessidade do supermercado. 
 <img src="assets/img/templates.png" width="900">
+
+Com o objetivo de evitar "falsos alertas", criei alguns períodos de manutenção. 
+Logo, em dias específicos(feriados) e horários(noite/madrugada) alguns host não são monitorados.
+<img src="assets/img/manutenção.png" width="900">
 
 Access Point - 1
 <img src="assets/img/ap.jpeg" width="900">
