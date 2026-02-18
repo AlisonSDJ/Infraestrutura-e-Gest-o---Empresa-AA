@@ -111,8 +111,12 @@ Impressora em rede utilizada no escritório.
 Mapa de toda infraestrutura elaborado no Zabbix.
 <img src="assets/img/mapa.png" width="900">
 
-Organização e padronização dos host em grupos. Já atentando-se para atender os outros dois supermercados que fazem parte da rede. 
+Organização e padronização dos host em grupos. 
+Já atentando-se para atender os outros dois supermercados que fazem parte da rede. 
 <img src="assets/img/grupos.png" width="900">
+
+Templates que foram clonados, a partir de modelos que o Zabbix disponibiliza, porém ajustados(itens e triggers) conforme a necessidade do supermercado. 
+<img src="assets/img/templates.png" width="900">
 
 Access Point - 1
 <img src="assets/img/ap.jpeg" width="900">
